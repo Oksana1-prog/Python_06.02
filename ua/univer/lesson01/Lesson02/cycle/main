@@ -1,0 +1,4 @@
+i=0
+while i<0:
+value =int(input("enter positive value"))
+if=
